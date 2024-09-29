@@ -17,3 +17,42 @@ Points forts :
 - Présentation claire et fluide des résultats, avec une démonstration de la connaissance des algorithmes et des concepts sous-jacents.
 
 Ce projet a enrichi mes compétences en analyse de données, en développement de modèles prédictifs avec Python, et en présentation de résultats analytiques complexes dans un contexte de lutte contre le faux-monnayage.
+
+Remarques sur l'évaluation
+1. Opérer des classifications automatiques pour partitionner les données
+
+Validé
+
+Commentaires : Mohamed a réalisé les classifications demandées. La classification a permis de distinguer clairement deux groupes homogènes.
+
+2. Réaliser une analyse prédictive
+
+ Validé
+
+Commentaires : La méthode de prédiction afin de prédire le type de billet a été mise en place et Mohamed a su m'expliquer les raisons du choix du modèle.
+
+Suite à l'envoi du fichier, les résultats du modèle de Mohamed sont correct vis à vis des prédictions.
+
+3. Réaliser une régression linéaire
+
+Validé
+
+Commentaires : La regréssion a été effectué pour prédire les valeurs manquantes. Les test de significativité des variables ont été faits de même que les test de normalité des résidus.
+
+4. Réaliser une régression logistique
+
+Validé
+
+Commentaires : La regréssion a été réalisé. Le type de billet a été prédit en fonction des variables explicatives (géométrie des billets). 
+
+Livrable
+
+Points forts :
+
+Bonne compréhension du sujet, bonne maîtrise des concepts théoriques sous jacents
+
+Axes d'amélioration : RAS
+
+Soutenance
+
+Remarques : Bonne présentation, claire et fluide. Mohamed a demontré une bonne connaissance des algorithmes ainsi que des concepts théoriques sous jacents. 
